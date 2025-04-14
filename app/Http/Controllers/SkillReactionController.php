@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use App\Models\Skill;
 use App\Models\SkillReaction;
 use Illuminate\Http\Request;
